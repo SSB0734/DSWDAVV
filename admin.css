@@ -1,0 +1,21 @@
+.d1{
+	background-color: #2f3845;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-radius: 25px;
+}
+
+.d4{
+	width: 30%;
+	border-radius: 10px;
+	margin-left: 35%;
+	margin-top: 10px;
+}
+.d5{
+	text-align: center;
+	border-radius: 10px;
+	margin-left: 25%;
+	margin-top: 10px;

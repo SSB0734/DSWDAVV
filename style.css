@@ -1,0 +1,15 @@
+@media screen and (min-aspect-ratio: 1/1){
+ .dispnone2{
+ display:none;
+}
+}
+.design{
+
+background-color: #0e3778;
+color:white;
+text-align:center;
+font-size:6.5vw;
+font-family: 'Slabo 27px', serif;
+
+
+}
